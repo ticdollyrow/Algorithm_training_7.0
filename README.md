@@ -1,5 +1,5 @@
-# Algorithm_training_7.0
-ТРЕНИРОВКИ ПО АЛГОРИТМАМ 7.0
+# Algorithm_training
+ТРЕНИРОВКИ ПО АЛГОРИТМАМ
 
 Лекция 1: Жадный алгоритм и задача о рюкзаке    https://contest.yandex.ru/contest/74964/problems/
 https://www.youtube.com/live/CgHXYmhTbSw
